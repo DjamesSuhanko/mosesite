@@ -1,0 +1,10 @@
+{
+  "repository": "DjamesSuhanko/mosesite",
+  "domain": "mose.clavesol.com.br",
+  "title": "Mose - Transpositor",
+  "description": "MOse é um transpositor de partituras, para instrumentos em Dó, Si bemol e Mi bemol.",
+  "author": "Djames Suhanko",
+  "email": "djames.suhanko@gmail.com",
+  "logo": "app-logo.png",
+  "privacy_ready": true
+}
