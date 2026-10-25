@@ -1,5 +1,5 @@
 Title: Mose - Transpositor
-Description: MOse é um transpositor de partituras, para instrumentos em Dó, Si bemol e Mi bemol.
+Description: Mose é um transpositor de partituras, para instrumentos em Dó, Si bemol e Mi bemol.
 Image: app-logo.png
 
 ## Seus dados no aplicativo
